@@ -18,7 +18,7 @@ Linux persistence tool designed for stealthy post-exploitation scenarios.
 ## Usage
 Run the script as root:
 
-``sudo ./script.sh``
+``sudo ./PersistX.sh``
 
 ## Requirements
 Root privileges (the script checks and prompts for this).
