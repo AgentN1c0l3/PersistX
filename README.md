@@ -1,12 +1,14 @@
 # PersistX
-Tool for Persistence in Linux
+When you can't see it, it's already too late
 
 # Overview
 
 Linux persistence tool designed for stealthy post-exploitation scenarios.
  It includes functionalities for setting up persistence through crontab, hooking into the apt-get update command, and generating SSH keys for users.
+ 
 Inspired by my earlier Linux persistence project (PersisLinuxAPT), this script combines few techniques I’ve studied into a all-in-one tool for Linux Persistence. (https://github.com/AgentN1c0l3/PersisLinuxAPT)
-![image](https://github.com/user-attachments/assets/8946dacd-b449-4f7f-bac1-1735a8ce5d3a)
+![image](https://github.com/user-attachments/assets/d640b656-2a41-48f1-a53a-7067548ea5a0)
+
 
 
 
