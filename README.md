@@ -3,7 +3,8 @@ Tool for Persistence in Linux
 
 # Overview
 Linux persistence tool designed for stealthy post-exploitation scenarios.
-![image](https://github.com/user-attachments/assets/15eb4005-4282-45a9-a0bf-000192aa2c91)
+![image](https://github.com/user-attachments/assets/7a8e6ec1-d502-4e3b-865d-6c7b18ee575d)
+
 
 
 ## Options
